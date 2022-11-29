@@ -1,12 +1,23 @@
-## Hi there 👋
 
-<!--
+# Welcome on Bimbala.com's GitHub page! 👋️ 
 
-**Here are some ideas to get you started:**
+<a href="https://bimbala.com"><img align="right" src="https://raw.githubusercontent.com/Bimbalacom/Graphical-elements/master/v2/500x500.png" height="250" alt="Les-Tilleuls.coop"></a>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+Bimbala.com is a software which helps individuals and companies provide the feedback / information / support they need for their projects which can be:
+* [SaaS](https://www.techtarget.com/searchcloudcomputing/definition/Software-as-a-Service)
+* [Game servers](https://en.wikipedia.org/wiki/Game_server)
+* and more
+
+If you’re interested in the free software, here is part of our free "stack":
+
+* [🕸️Website](https://github.com/Bimbalacom/bimbalacom): The source code of bimbala.com.
+* [📱 Mobile](https://github.com/Bimbalacom/Mobile): The source code of our mobile applications. It is supported on Android and iOS and based on Flutter.
+* [📦 Desktop](https://github.com/Bimbalacom/Desktop): Our Desktop app repository
+* More comming soon
+
+Our internal documentation and other useful information are also publicly available:
+
+- [📰️ Press kit](#)
+- [🎨️ Our styleguide](#) 
+- [🎨️ Our graphical elements](https://github.com/Bimbalacom/Graphical-elements) 
