@@ -1,7 +1,7 @@
 
 # Welcome on Bimbala.com's GitHub page! 👋️ 
 
-<a href="https://bimbala.com"><img align="right" src="https://raw.githubusercontent.com/Bimbalacom/Graphical-elements/master/v2/500x500.png" height="250" alt="Les-Tilleuls.coop"></a>
+<a href="https://bimbala.com"><img align="right" src="https://raw.githubusercontent.com/Bimbalacom/Graphical-elements/master/v2/500x500.png" height="250" alt="Bimbala.com"></a>
 
 
 Bimbala.com is a software which helps individuals and companies provide the feedback / information / support they need for their projects which can be:
