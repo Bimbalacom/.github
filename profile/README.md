@@ -13,11 +13,11 @@ If you’re interested in the free software, here is part of our free "stack":
 
 * [🕸️Website](https://github.com/Bimbalacom/bimbalacom): The source code of bimbala.com.
 * [📱 Mobile](https://github.com/Bimbalacom/Mobile): The source code of our mobile applications. It is supported on Android and iOS and based on Flutter.
-* [📦 Desktop](https://github.com/Bimbalacom/Desktop): Our Desktop app repository
+* [💻 Desktop](https://github.com/Bimbalacom/Desktop): Our Desktop app repository
 * More comming soon
 
 Our internal documentation and other useful information are also publicly available:
 
 - [📰️ Press kit](#)
 - [🎨️ Our styleguide](#) 
-- [🎨️ Our graphical elements](https://github.com/Bimbalacom/Graphical-elements) 
+- [🎨 Our graphical elements](https://github.com/Bimbalacom/Graphical-elements) 
