@@ -7,6 +7,7 @@
 Bimbala.com is a software which helps individuals and companies provide the feedback / information / support they need for their projects which can be:
 * [SaaS](https://www.techtarget.com/searchcloudcomputing/definition/Software-as-a-Service)
 * [Game servers](https://en.wikipedia.org/wiki/Game_server)
+* Events
 * and more
 
 If you’re interested in the free software, here is part of our free "stack":
